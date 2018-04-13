@@ -1,0 +1,10 @@
+{
+    "veiw":
+    [   "VIEWPORT",
+        "MENU",
+        "WINDOW",
+        "UI":["WINDOWS","BUTTONS","INPUT","CONBO-BOX","CHECK-BOX"]
+    ],
+    "model":[],
+    "controller":[]
+}
