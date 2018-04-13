@@ -1,0 +1,50 @@
+ {
+
+     "VIEW": [{
+         "VIEWPORT": [
+             "3D-OBJECT",
+             "GIZMOS",
+             "INFINITY-GRID",
+             "SELECTION",
+             "PERSPECTIVE-VIEW",
+             "ORTHOGRAPHIC-VIEW",
+             "WIREFRAME-VIEW"
+         ],
+
+         "MENU": [],
+
+         "TOOLBAR": [],
+
+         "WINDOW": [
+             { "TABBED - WIND0W": [""] },
+
+             { "---------------------------------------------------------------------------------": [] },
+
+             {
+                 "UI": [
+                     "BUTTONS",
+                     "INPUT",
+                     "CONBO-BOX",
+                     "CHECK-BOX",
+                     "TOGGLE-BOX",
+                     "TEXT-VIEW",
+                     "SCROLL-BAR",
+                     "IMAGE-VIEW"
+                 ]
+             }
+         ]
+
+     }],
+
+
+     "------------------------------------------------------------------------------------M": [],
+
+     "MODEL": [],
+
+
+
+     "------------------------------------------------------------------------------------C": [],
+
+     "CONTROLLER": []
+
+ }
