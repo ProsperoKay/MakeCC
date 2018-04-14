@@ -1,14 +1,45 @@
  {
 
      "VIEW": [{
-         "VIEWPORT": [
-             "3D-OBJECT",
-             "GIZMOS",
-             "INFINITY-GRID",
-             "SELECTION",
-             "PERSPECTIVE-VIEW",
-             "ORTHOGRAPHIC-VIEW",
-             "WIREFRAME-VIEW"
+         "VIEWPORT": [{
+                 "POST-PROCESSING-FACTOR": [
+                     "ANTI-ALIASING",
+                     "EXPOSURE",
+                     "BRIGHTNESS",
+                     "CONTRAST",
+                     "SATURATION",
+                     "SHADOWS"
+                 ]
+             },
+
+
+             {
+                 "MARKERS": [
+                     "SELECTION-MARKER",
+                     "GROUP-INDICTOR",
+                     "INHERITANCE-INDICATOR",
+                     "PHYSICS-INDICATOR",
+                     "ANIMATION-INDICATOR"
+                 ]
+             },
+
+
+             {
+                 "SCENE": [
+                     "3D-OBJECT",
+                     "GIZMOS",
+                     "INFINITY-GRID",
+                     "SKYBOX"
+                 ]
+             },
+
+             {
+                 "SCENE-VIEWS": [
+                     "PERSPECTIVE-VIEW",
+                     "ORTHOGRAPHIC-VIEW",
+                     "WIREFRAME-VIEW"
+                 ]
+             }
          ],
 
          "MENU": [],
