@@ -1,7 +1,7 @@
  {
 
      "VIEW": [{
-         "VIEWPORT": [{
+         "VIEWPORT-MAIN": [{
                  "POST-PROCESSING-FACTOR": [
                      "ANTI-ALIASING",
                      "EXPOSURE",
@@ -42,11 +42,22 @@
              }
          ],
 
-         "MENU": [],
+         "MENU-MAIN": [{
 
-         "TOOLBAR": [],
+             "FILE": [],
+             "BUILD": [],
+             "VIEW": [],
+             "HELP": []
+         }],
 
-         "WINDOW": [
+         "TOOLBAR-MAIN": [{
+             "ROTATE": [],
+             "TRANSLATE": [],
+             "SCALE": [],
+             "COORDINATES": []
+         }],
+
+         "WINDOW-MAIN": [
              { "TABBED - WIND0W": [""] },
 
              { "---------------------------------------------------------------------------------": [] },
